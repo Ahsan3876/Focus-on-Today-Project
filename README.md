@@ -1,6 +1,6 @@
 https://singular-tulumba-6ea11d.netlify.app
 
-In starting, when I just completed the JavaScript language. Then I made this project by using HTML, CSS, & JavaScript which is no doubt literally very useful for the users because it allow the clients to enter their daily basis targets, track their progress, and display comments when tasks are completed serve multiple important purposes.
+This project by made using HTML, CSS, & JavaScript which is no doubt literally very useful for the users because it allow the clients to enter their daily basis targets, track their progress, and display comments when tasks are completed serve multiple important purposes.
 
 This is typically designed for productivity and personal or professional development, offering users a structured way to manage their tasks and goals.
 
