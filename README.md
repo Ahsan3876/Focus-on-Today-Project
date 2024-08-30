@@ -10,5 +10,4 @@ Over time, using such a platform can help users establish routines that contribu
 hashtag#Structure hashtag#designing hashtag#functionality
 hashtag#Building_fully_responsive_websites
 
- https://lnkd.in/gcS8Vfs3
-https://lnkd.in/g5n5tRfK
+https://singular-tulumba-6ea11d.netlify.app
